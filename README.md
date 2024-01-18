@@ -123,7 +123,7 @@ stata/14-b1041    stata/14 (D)    stata/15    stata/17 (L)
 - Download Globus Connect Personal
 - d5990400-6d04-11e5-ba46-22000b92c6ec or Northwestern Quest to find the endpoint in Quest. 
 - path: /projects/p32069
-- Search Northwestern Quest Onedrive Pilot to get access to Quest. You can sync the files in /projects/p32069 daily to Onedrive. 
+- Search Northwestern Quest Onedrive Pilot to get access to Quest. You can sync the files in project folder daily to Onedrive. 
 
 For more details: https://services.northwestern.edu/TDClient/30/Portal/KB/ArticleDet?ID=2014
 
