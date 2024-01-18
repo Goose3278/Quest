@@ -56,7 +56,7 @@ A breakdown of the syntax:
 - `-N 1`: 1 node
 - `-n 4`: 4 cpus
 - `--account=p32069`: account the job ran under. Here under the p32069 allocation.
-- `--men=12G`: 12 GB memories. You can ask for larger memories if the dataset is big. 
+- `--men=12G`: 12 GB of memory. You can ask for larger memory if the dataset is big. For a 13 GB dataset, I usually assign 50GB of memory. 
 - `--time=01:00:00`: this job will last 1 hour. The session automatically ends after the time is out. 
 - `--partition=short`: partition depends on time. 
 
